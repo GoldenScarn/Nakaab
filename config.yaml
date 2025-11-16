@@ -1,0 +1,15 @@
+clear_output: true
+force_cpu: false
+max_threads: 7
+memory_limit: 0
+output_image_format: jpg
+output_template: '{file}_{i}'
+output_video_codec: libx264
+output_video_format: mp4
+provider: cuda
+selected_theme: freddyaboulton/dracula_revamped
+selected_enhancer: GFPGAN
+server_name: ''
+server_port: 0
+server_share: true
+video_quality: 16
